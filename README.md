@@ -1,21 +1,13 @@
 
 <img width="20%" align="right" alt="Github" src="https://user-images.githubusercontent.com/86983592/139599550-3ca2f987-9c4c-4479-a890-ad4c878fcfc0.gif" />
 
-### Hi there 👋
+### Hi there! 👋
 I`m a junior front-end developer looking for new challenges and a job opportunity in this amazing industry.
 
 I want to continue learning JavaScript and other languages and tools. Right now I'm working on my portfolio and creating a very fun quiz game made with React.
 
 
- ### Let's keep in touch:
- 
- [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_anamontegrifo)](https://twitter.com/_anamontegrifo)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anamontegrifo/)](https://www.linkedin.com/in/anamontegrifo/)
-[![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF&link=https://github.com/anamontegrifo)](https://github.com/anamontegrifo)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amontegrifo@gmail.com)](mailto:amontegrifo@gmail.com)
-
-
-### Tech tools
+### Tech tools:
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -30,8 +22,18 @@ I want to continue learning JavaScript and other languages and tools. Right now 
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
-### Design tools
+
+### Design tools:
 <img src="https://aleen42.github.io/badges/src/photoshop.svg"> <img src="https://aleen42.github.io/badges/src/illustrator.svg">
 <img src="https://aleen42.github.io/badges/src/premiere.svg">
+
+
+### Let's keep in touch:
+ 
+ [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_anamontegrifo)](https://twitter.com/_anamontegrifo)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anamontegrifo/)](https://www.linkedin.com/in/anamontegrifo/)
+[![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF&link=https://github.com/anamontegrifo)](https://github.com/anamontegrifo)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amontegrifo@gmail.com)](mailto:amontegrifo@gmail.com)
+
 
 
