@@ -1,5 +1,5 @@
 
-<img width="20%" align="right" alt="Github" src="https://user-images.githubusercontent.com/86983592/139599550-3ca2f987-9c4c-4479-a890-ad4c878fcfc0.gif" />
+<img width="20%" align="right" alt="Github" src="https://user-images.githubusercontent.com/86983592/139863695-82ecfdd3-6186-440c-9f23-c7a48a7278c1.gif" />
 
 ### Hi there! 👋
 I`m a junior front-end developer looking for new challenges and a job opportunity in this amazing industry.
