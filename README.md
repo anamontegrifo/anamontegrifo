@@ -32,7 +32,6 @@ I want to continue learning JavaScript and other languages and tools. Right now 
  
  [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_anamontegrifo)](https://twitter.com/_anamontegrifo)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anamontegrifo/)](https://www.linkedin.com/in/anamontegrifo/)
-[![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF&link=https://github.com/anamontegrifo)](https://github.com/anamontegrifo)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amontegrifo@gmail.com)](mailto:amontegrifo@gmail.com)
 
 
