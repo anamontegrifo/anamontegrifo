@@ -20,7 +20,7 @@ I want to continue learning JavaScript and other languages and tools. Right now 
 <img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+
 
 
 ### Design tools:
