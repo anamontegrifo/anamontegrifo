@@ -4,7 +4,7 @@
 ### Hi there! 👋
 I`m a junior front-end developer looking for new challenges and a job opportunity in this amazing industry.
 
-I want to continue learning JavaScript and other languages and tools. Right now I'm working on my portfolio and creating a very fun quiz game made with React.
+I want to continue learning JavaScript and other languages and tools. Right now I'm working on my portfolio and creating a quiz game made with React.
 
 
 ### Tech tools:
