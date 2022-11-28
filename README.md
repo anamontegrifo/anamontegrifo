@@ -2,9 +2,7 @@
 <img width="20%" align="right" alt="Github" src="https://user-images.githubusercontent.com/86983592/139863695-82ecfdd3-6186-440c-9f23-c7a48a7278c1.gif" />
 
 ### Hi there! 👋
-I`m a junior front-end developer looking for new challenges and a job opportunity in this amazing industry.
-
-I want to continue learning JavaScript and other languages and tools. Right now I'm working on my portfolio and creating a quiz game made with React.
+I`m a junior front-end developer looking for new challenges in this amazing industry.
 
 
 ### Tech tools:
